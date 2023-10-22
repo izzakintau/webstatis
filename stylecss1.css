@@ -1,0 +1,110 @@
+
+/*reset*/
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkred;
+}
+
+img {
+    width: 20%; /*ukuran gambar*/
+}
+
+/*paragraf*/
+p {
+    background-color: blanchedalmond;
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+ul{
+    padding-left: 64px;
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*link*/
+a {
+    color: darkred;
+}
+
+table {
+    padding-left: 10px;
+    width : 20px;
+    border-left: 2px solid darkred;
+    margin-left: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrapper-content  {
+    background: blanchedalmond;
+    text-align: center;
+    color: darkred;
+}
+
+/*class*/
+.pback {
+    border-radius: 10px;
+    background-color: darkred;
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.back {
+    background-image: url(image/khatulistiwa2.jpeg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.head {
+    border-radius: 10px;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.head2 {
+    color: darkred;
+    background: blanchedalmond;
+    text-align: center;
+}
+
+
+.par {
+    background-color: blanchedalmond;
+    color: darkred;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px darkred;
+    margin-left: 12px;
+}
+
+.wrapper-list {
+    background-color: blanchedalmond;
+
+}
+
+.kel {
+    background-color: blanchedalmond;
+    color: darkred;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: left;
+    border: 2px darkred;
+}
